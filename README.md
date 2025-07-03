@@ -27,6 +27,6 @@ A desktop-based GUI application that analyzes the sentiment of user-input text a
 
 ## 📷 GUI Preview
 
-> A lightweight, clean interface that responds instantly to user input and sentiment classification.
+![Image](https://github.com/user-attachments/assets/2e0a874d-d5f8-4783-944c-774a9a4d799c)
 
 made by Aryan Sunil
